@@ -72,5 +72,3 @@
 ## 플로우 차트
 <img width="1231" height="771" alt="image" src="https://github.com/user-attachments/assets/87f98e9f-0efb-4b86-9ceb-404b7a5da4ca" />
 
-## 기술 명세서
-
